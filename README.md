@@ -1,5 +1,5 @@
 # MATHEMATICAL-SYMBOL-SEEKER
- a project that involves symbol recognition using a convolutional neural network (CNN) model in TensorFlow.
+Project that involves symbol recognition using a convolutional neural network (CNN) model in TensorFlow.
  The workflow includes loading the dataset, preprocessing images, building a CNN, training the model, saving/loading it, and then using PyAutoGUI to interact with an external application (like MS Paint) for capturing screenshots and processing images.
  Dataset Loading & Preprocessing
 
